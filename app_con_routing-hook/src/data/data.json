@@ -49,6 +49,66 @@
             "photo": "https://i.ytimg.com/vi/mJ0xcfQ_WOo/maxresdefault.jpg",
             "Friends": ["Ichigo","Kenpachi","Kisuke"],
             "City": ["Kagamino"]
+        },    
+        {   
+            "id": 6,
+            "name": "Ulkiorra",
+            "lastname": "Cifer",
+            "gender": "Hombre",
+            "age": "25",
+            "photo": "https://i.ytimg.com/vi/mJ0xcfQ_WOo/maxresdefault.jpg",
+            "Friends": ["Ichigo","Kenpachi","Kisuke"],
+            "City": ["Kagamino"]
+        },
+        {   
+            "id": 7,
+            "name": "Ulkiorra",
+            "lastname": "Cifer",
+            "gender": "Hombre",
+            "age": "25",
+            "photo": "https://i.ytimg.com/vi/mJ0xcfQ_WOo/maxresdefault.jpg",
+            "Friends": ["Ichigo","Kenpachi","Kisuke"],
+            "City": ["Kagamino"]
+        },
+        {   
+            "id": 8,
+            "name": "Ulkiorra",
+            "lastname": "Cifer",
+            "gender": "Hombre",
+            "age": "25",
+            "photo": "https://i.ytimg.com/vi/mJ0xcfQ_WOo/maxresdefault.jpg",
+            "Friends": ["Ichigo","Kenpachi","Kisuke"],
+            "City": ["Kagamino"]
+        },
+        {   
+            "id": 9,
+            "name": "Ulkiorra",
+            "lastname": "Cifer",
+            "gender": "Hombre",
+            "age": "25",
+            "photo": "https://i.ytimg.com/vi/mJ0xcfQ_WOo/maxresdefault.jpg",
+            "Friends": ["Ichigo","Kenpachi","Kisuke"],
+            "City": ["Kagamino"]
+        },
+        {   
+            "id": 10,
+            "name": "Ulkiorra",
+            "lastname": "Cifer",
+            "gender": "Hombre",
+            "age": "25",
+            "photo": "https://i.ytimg.com/vi/mJ0xcfQ_WOo/maxresdefault.jpg",
+            "Friends": ["Ichigo","Kenpachi","Kisuke"],
+            "City": ["Kagamino"]
+        },
+        {   
+            "id": 11,
+            "name": "Ulkiorra",
+            "lastname": "Cifer",
+            "gender": "Hombre",
+            "age": "25",
+            "photo": "https://i.ytimg.com/vi/mJ0xcfQ_WOo/maxresdefault.jpg",
+            "Friends": ["Ichigo","Kenpachi","Kisuke"],
+            "City": ["Kagamino"]
         }
     ]
 }
